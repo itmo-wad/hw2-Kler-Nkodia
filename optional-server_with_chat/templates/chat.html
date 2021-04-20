@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Chat</title>
+  </head>
+  <body>
+    <h1>Chat</h1>
+	<p>Previous messages:</p>
+	{% for message in history %}
+        <p>{{ message }}</p>    
+    {% endfor %}
+    <form method="POST" action="/">
+	  <label for="input-message">Message:</label>
+	  <input type="text" name="message" id="input-message">
+	  <input type="submit">
+    </form>
+  </body>
+</html>

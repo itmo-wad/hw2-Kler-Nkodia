@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/misc.xml
+# Datasource local storage ignored files
+/../../../../../../:\ITMO2-M\WAD\HW2-Server for gallery and chat\basic-server_with_gallery\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/inspectionProfiles/
