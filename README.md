@@ -1,5 +1,5 @@
-# hw2-Kler-Nkodia
-Repository for Homework #2 (https://wad.itmo.xyz/assignments/homework2.html). Author: Nkodia Kler, N41513c
+# hw2-Kler
+Repository for Homework #2 (https://wad.itmo.xyz/assignments/homework2.html). Author: Kler, N41513c
 
 The basic part of the homework is located in "basic-server_with_gallery" folder.  
 
